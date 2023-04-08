@@ -1,0 +1,67 @@
+commit 76f1bcf23d8b0b51f3c148b83d7b3d0158ae58d2 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: David <david.jov17@outlook.com>
+Date:   Sat Apr 8 16:16:12 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 8e05ec66ce29adc39bff441af6b688bae1558b23 (origin/bug2, origin/bug1, bug2, bug1)
+Merge: 3cccae9 b230882
+Author: David <david.jov17@outlook.com>
+Date:   Sat Apr 8 16:19:24 2023 +0200
+
+    Merge branch 'master' of https://github.com/DavidJ1704/SI_2023_lab1_182040 into bug2
+
+commit 3cccae9caded2163458c8488bc1ef2b3e2dd4e6f
+Author: David <david.jov17@outlook.com>
+Date:   Sat Apr 8 16:14:49 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit b2308827d6f4ed10f92ba81b17034cf301330bee
+Author: David <david.jov17@outlook.com>
+Date:   Sat Apr 8 16:13:39 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 8ca354d271a907fbf938a4f50c75ee2fbddcbd0c
+Author: David <david.jov17@outlook.com>
+Date:   Sat Apr 8 16:05:52 2023 +0200
+
+    Add java class
+:...skipping...
+commit 76f1bcf23d8b0b51f3c148b83d7b3d0158ae58d2 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: David <david.jov17@outlook.com>
+Date:   Sat Apr 8 16:16:12 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 8e05ec66ce29adc39bff441af6b688bae1558b23 (origin/bug2, origin/bug1, bug2, bug1)
+Merge: 3cccae9 b230882
+Author: David <david.jov17@outlook.com>
+Date:   Sat Apr 8 16:19:24 2023 +0200
+
+    Merge branch 'master' of https://github.com/DavidJ1704/SI_2023_lab1_182040 into bug2
+
+commit 3cccae9caded2163458c8488bc1ef2b3e2dd4e6f
+Author: David <david.jov17@outlook.com>
+Date:   Sat Apr 8 16:14:49 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit b2308827d6f4ed10f92ba81b17034cf301330bee
+Author: David <david.jov17@outlook.com>
+Date:   Sat Apr 8 16:13:39 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 8ca354d271a907fbf938a4f50c75ee2fbddcbd0c
+Author: David <david.jov17@outlook.com>
+Date:   Sat Apr 8 16:05:52 2023 +0200
+
+    Add java class
+
+commit c1ed2b6835f5ffb0929773faa639fa28c4c30009
+Author: David <david.jov17@outlook.com>
+Date:   Sat Apr 8 16:00:34 2023 +0200
+
+    Initial commit
